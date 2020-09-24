@@ -1,2 +1,2 @@
 # Newsletter
-A fulstack website with API 's
+A fullstack website with API 's
