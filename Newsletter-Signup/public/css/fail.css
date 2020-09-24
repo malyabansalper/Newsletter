@@ -1,0 +1,22 @@
+.container
+{
+  padding-right: 13rem;
+  padding-top: 28rem;
+  text-align: center;
+}
+h1
+{
+  color: #ff4b5c;
+  font-weight: bolder;
+  font-size: 7rem;
+  text-decoration-style: double;
+  font-family: 'Roboto Slab', serif;
+}
+p
+{
+  color: #ed6663;
+  font-weight: bolder;
+  font-style: italic;
+  font-size: 5rem;
+  font-family: 'Inconsolata', monospace;
+}
